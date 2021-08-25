@@ -1,32 +1,70 @@
-# Trabalho-de-Web
+# Getting Started with Create React App
 
-Link do Trello
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-https://trello.com/b/0fGfQkfb/us-pia-de-web
+## Available Scripts
 
+In the project directory, you can run:
 
-Link do Figma
+### `npm start`
 
-https://www.figma.com/file/JtB9NFkKHsJxgKwv43E4k0/Us-pia-de-Web?node-id=0%3A1
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Definindo Papéis
-Arthur Gums Willrich - Dev Sr
-Brenno Araujo Queiroz  - Marketing
-Guilherme Batistell - Bolsista
-Paulo Roberto Barcelos  - Produto
-Pedro Victor de Castro Cezarino  - CTO de tecnologia
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-Solução Geral
-Esse projeto visa fornecer oportunidades de empregos para pessoas que estão em busca de uma primeira oportunidade e também para pessoas desempregadas. Para atender essa necessidade tão importante, utilizaremos a tecnologia React para desenvolver telas inovadoras e de fácil usabilidade para todos os tipos de usuários.   
+### `npm test`
 
-Atividades Principais
-Cadastrar empresas e usuários;
-Cadastrar currículo do usuário;
-Editar perfil das empresas e usuários;
-Tela de login;
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-Diferencial da Proposta
-Este projeto conta com a utilização de tecnologias que fornecem ao usuário uma fácil navegação pelo seu desktop ou dispositivo mobile, centralizando todas as informações em apenas um local para que o candidato ou empresa possa se organizar de uma forma eficiente para não perder nenhuma oportunidade. Além disso, será possível marcar reuniões por meio da plataforma, com a intenção de manter contato em apenas um local.
+### `npm run build`
 
-Público Alvo
-Este Website será voltado para pessoas que estão a procura da sua primeira oportunidade de emprego, para pessoas que sentiram a necessidade de voltar a trabalhar  e também para pessoas desempregadas.
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
